@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='QSTK',
-    version='0.2.8',
+    version='0.2.8.1',
     author='Sourabh Bajaj',
     packages=find_packages(),
     namespace_packages=['QSTK'],
